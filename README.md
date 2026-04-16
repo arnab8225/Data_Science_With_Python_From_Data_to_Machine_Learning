@@ -46,9 +46,6 @@ Joblib
 ├── model.pkl           # Saved trained model
 └── README.md           # Project documentation
 ⚙️ Installation & Setup
-1. Clone the repository
-git clone https://github.com/your-username/telco-churn-prediction.git
-cd telco-churn-prediction
 2. Install dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn joblib
 3. Run the notebook
